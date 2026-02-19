@@ -254,7 +254,7 @@ campus-events-api/
 
 ## Related Repositories
 
-- [campus-events-client](https://github.com/your-username/campus-events-client) — React frontend that consumes this API
+- [campus-events-client](https://github.com/Malcolm-Mukorera/campus-events-client) — React frontend that consumes this API
 
 ---
 
