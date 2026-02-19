@@ -257,11 +257,11 @@ campus-events-api/
 - [campus-events-client](https://github.com/Malcolm-Mukorera/campus-events-client) — React frontend that consumes this API
 
 ---
-
+https://github.com/tnsema
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-> Built by [Malcolm Mukorera](https://github.com/Malcolm-Mukorera) · Advanced Diploma in ICT Applications Development Graduate · Open to opportunities 🚀
+> Built by [Malcolm Mukorera](https://github.com/Malcolm-Mukorera) & [Thobile Sema](https://github.com/tnsema)· Open to opportunities 🚀
