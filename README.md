@@ -254,10 +254,10 @@ campus-events-api/
 
 ## Related Repositories
 
-- [campus-events-client](https://github.com/Malcolm-Mukorera/campus-events-client) — React frontend that consumes this API
+- [campus-events-client](https://github.com/Malcolm-Mukorera/campus-events-client) — React frontend that consumes this API 
 
 ---
-https://github.com/tnsema
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
