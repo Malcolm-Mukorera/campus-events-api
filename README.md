@@ -264,4 +264,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-> Built by [Your Name](https://github.com/your-username) · Final year Computer Science student · Open to opportunities 🚀
+> Built by [Malcolm Mukorera](https://github.com/Malcolm-Mukorera) · Advanced Diploma in ICT Applications Development Graduate · Open to opportunities 🚀
